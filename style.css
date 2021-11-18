@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+    background-color: aqua;
+    font-weight: bold;
+    font-family:cursive;
+    font-style: normal;
+}
+#family_member_image {
+    border: gold;
+}
